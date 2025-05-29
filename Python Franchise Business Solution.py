@@ -97,3 +97,5 @@ class Business:
 Basta = Business("Basta Fazoolin' with my Heart", [flagship_store, new_installment])
 
 Arepa = Business("Take a' Arepa", arepas_place)
+
+print(Arepa.franchises)
